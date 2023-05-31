@@ -1,14 +1,12 @@
-# 2023TADS-POO
-Material e Atividades da disciplina de POO 
+# Programação Orientada a Objetos
 
-## Tutorial Git
+## Professor
+`Nelson Belicanta Filho` 
 
-Guia interativo aprendizado Git (https://learngitbranching.js.org/) 
+## Aluno
+`João Pedro Guesser`
 
-Associando o GitHub no Visual Studio Code (https://www.youtube.com/watch?v=peGUkhXD3Vw)
-
-## Abrir branch específico em uma instância do [binderhub]
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023TADS-POO/HEAD)
+## Curso
+`TADS - Tecnologo em Análise e Desenvolvimento de Sistemas`
 
 
